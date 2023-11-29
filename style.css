@@ -52,7 +52,7 @@ header{
 }
 
 .logo{
-    display: inline-flex;
+    display: flex;
 }
 button{
     color: rgb(109, 39, 39);
